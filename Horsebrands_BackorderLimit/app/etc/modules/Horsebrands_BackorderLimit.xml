@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Horsebrands_BackorderLimit>
+            <active>true</active>
+            <codePool>local</codePool>
+			      <depends>
+                <MDN_AdvancedStock/>
+            </depends>
+        </Horsebrands_BackorderLimit>
+    </modules>
+</config>
