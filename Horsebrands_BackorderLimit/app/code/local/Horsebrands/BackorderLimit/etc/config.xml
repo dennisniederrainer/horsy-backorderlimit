@@ -96,6 +96,15 @@
               </observers>
             </advancedstock_stock_aftersave>
         </events>
+        <translate>
+          <modules>
+              <Mage_Catalog>
+                  <files>
+                      <horsebrands_backorderlimit>Horsebrands_Backorderlimit.csv</horsebrands_backorderlimit>
+                  </files>
+              </Mage_Catalog>
+         </modules>
+       </translate>
     </adminhtml>
     <frontend>
         <events>
