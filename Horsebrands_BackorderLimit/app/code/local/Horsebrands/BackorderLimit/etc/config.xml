@@ -49,13 +49,11 @@
                 <class>Horsebrands_BackorderLimit_Block</class>
             </Horsebrands_BackorderLimit>
 
-            <!-- <adminhtml>
+            <adminhtml>
                 <rewrite>
-                    <catalog_product_edit_tab_super_config_simple>
-                        Horsebrands_BackorderLimit_Block_Adminhtml_Catalog_Product_Edit_Tab_Super_Config_Simple
-                    </catalog_product_edit_tab_super_config_simple>
+                    <catalog_product_edit_tab_super_config_simple>Horsebrands_BackorderLimit_Block_Adminhtml_Catalog_Product_Edit_Tab_Super_Config_Simple</catalog_product_edit_tab_super_config_simple>
                 </rewrite>
-            </adminhtml> -->
+            </adminhtml>
         </blocks>
     </global>
     <admin>

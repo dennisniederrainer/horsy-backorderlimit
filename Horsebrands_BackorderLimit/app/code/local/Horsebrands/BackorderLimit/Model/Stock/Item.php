@@ -62,7 +62,6 @@ class Horsebrands_BackorderLimit_Model_Stock_Item extends MDN_AdvancedStock_Mode
         if ($value < 0)
             $value = 0;
 
-        Mage::log('availableforsale: ' . $value,null,'cisi.log');
         return $value;
     }
 
