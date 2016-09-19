@@ -85,14 +85,14 @@
                     </horsebrands_backorderlimit_catalog_product>
                 </observers>
             </catalog_product_collection_load_before>
-            <advancedstock_stock_aftersave>
+            <!-- <advancedstock_stock_aftersave>
               <observers>
                   <horsebrands_backorderlimit>
                       <class>horsebrands_backorderlimit/observer_adminhtml</class>
                       <method>updateProductAvailabilityStatus</method>
                   </horsebrands_backorderlimit>
               </observers>
-            </advancedstock_stock_aftersave>
+            </advancedstock_stock_aftersave> -->
         </events>
         <translate>
           <modules>
